@@ -17,8 +17,9 @@ curl http://localhost:8080/search/?item=mango
 ```
 
 ### Deploy with GCP app engine
-install google cloud sdk from   
+> install google cloud sdk   
 > [Refer here](https://cloud.google.com/sdk/docs/)    
+
 install app engine golang component   
 ```
 gcloud components install app-engine-go
